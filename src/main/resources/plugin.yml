@@ -1,0 +1,4 @@
+name: SideBar
+version: '${project.version}'
+main: jerry.personal.sidebar.SideBar
+api-version: '1.20'
